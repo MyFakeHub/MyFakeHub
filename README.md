@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🍵[Buy me a coffee](https://www.buymeacoffee.com/fakeanddish)
+
 
 ### GitHub Stats 📈
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MyFakeHub&show_icons=true&theme=dracula)
